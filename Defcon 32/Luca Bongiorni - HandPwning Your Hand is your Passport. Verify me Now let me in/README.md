@@ -1,0 +1,8 @@
+# HandPwning Your Hand is your Passport. Verify me. Now let me in!
+
+**Speaker:** Luca Bongiorni
+
+# Abstract
+
+"Biometrics applied to PACS (Physical Access Control Systems) has been an hot-topic for a few years now. The spread of fingerprint or face recognition based access control and time attendance systems among corporate, industrial and military environments has surged. And with it, also the number of potential attack vectors has increased. In this talk, after a brief overview of the state of art of available PACS utilizing biometrics to authenticate and authorize users, we will investigate one technology among others (usually perceived less-invasive) that has been widely used in some specific fields (e.g. industrial plants, airports, food industry, etc.) the handpunch access control and time attendance systems. The handpunch PACS are based on the hand-geometry recognition. In this presentation we will have a look how this tech works and, in particular, we will focus our attention on reviewing some of existing handpunch devices from a physical security POV until reversing the communication protocol. Moreover, during the presentation will be demonstrated how to remotely push a new super-admin user into it (i.e. persistent backdoor), how to dump existing users credentials and will be also released an opensource tool-suite HandScan & HandPwner. 
+Eventually, thanks the cooperation with Shodan’s creator, it has been confirmed that more than 1800 of these vulnerable devices were found exposed on the Internet. Finally, we will conclude the talk with practical and actionable countermeasures to prevent these attacks and how to harden these devices."
